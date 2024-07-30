@@ -1,0 +1,7 @@
+node_modules/
+Dockerfile
+Procfile
+.gitlab-ci.yml
+rds-combined-ca-bundle.pem
+.env
+.env.dev
